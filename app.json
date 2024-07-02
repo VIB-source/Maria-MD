@@ -25,6 +25,8 @@
     },
      "id": {
       "description": "Put your session id here"
+      "required": true,
+      "value": "_M_A_R_I_A_Q29hY2hpbmdBd2FrZW4K"
     },     
      "PM_BLOCKER": {
       "description": "type True for enable Pm blocker"
